@@ -1,0 +1,33 @@
+@media (max-width: 780px) {
+    .ui-dialog {
+        max-width: 100%;
+    }
+    #navbar-default {
+        display: none;
+    }
+    .header-top {
+        margin: 0 0 10px !important;
+    }
+    .link-logo img {
+        height: 55px !important;
+    }
+    .iconmenu {
+        height: 65px;
+        display: table-cell;
+        vertical-align: middle;
+    }
+    .logo-hotline {
+        height: 65px;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 16px;
+        color: red !important;
+    }
+    h2.uudai-heading {
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .uudai {
+        padding: 10px 10px 30px;
+    }
+}
